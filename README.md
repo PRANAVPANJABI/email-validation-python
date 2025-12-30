@@ -13,7 +13,7 @@ This project implements email validation in Python using two different approache
 - How the same validation rules can be expressed compactly using regex
 - The strengths and limitations of both approaches
 
-This project is **learning-focused** and avoids external libraries beyond Python’s standard modules.
+This project is learning-focused and avoids external libraries beyond Python’s standard modules.
 ---
 
 
